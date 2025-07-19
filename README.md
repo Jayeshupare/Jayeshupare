@@ -14,9 +14,9 @@
 - 💼 Tech Stack: React, Node.js, Express, MongoDB, Tailwind CSS  
 - 🌱 Currently learning **TypeScript**, **Next.js**, and **DevOps basics**
 - 🤝 Open to collaborations and freelance opportunities
-- 📫 Reach me at: **jayeshupare02@gmail.com**
+- 📫 Reach me at: **jayeshupare3737@gmail.com**
 
----
+<!-- Removed the underline here -->
 
 ## 🛠️ Tech Stack
 
@@ -35,13 +35,18 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayeshupare&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayeshupare&layout=compact&theme=tokyonight" width="47%" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Jayeshupare&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayeshupare&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 ---
-
 
 ## 🔗 Connect with Me
 
