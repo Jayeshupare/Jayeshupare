@@ -1,62 +1,34 @@
-# 👋 Hello World! I'm Jayesh Upare
+<!-- Jayesh Upare GitHub README -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jayeshupare&label=Profile%20Views&color=0e75b6&style=flat-square)
+<h1 align="center">Hi 👋, I'm Jayesh Upare</h1>
+<h3 align="center">A Full Stack Developer & Lifelong Learner</h3>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Responsive+Web+Apps;Full+Stack+MERN+Developer;Always+Learning+and+Exploring;Let's+Build+Something+Great!&center=true&width=500&height=45" />
+</p>
 
-🚀 Passionate full-stack developer exploring MERN stack technologies and solving real-world problems through code. I enjoy building clean, responsive, and functional user interfaces backed by powerful APIs.
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300"/>
+</p>
 
 ---
 
-## 💡 About Me
+### 🧠 About Me
 
 - 🎓 Pursuing B.E. in Information Technology  
-- 💼 Tech Stack: React, Node.js, Express, MongoDB, Tailwind CSS  
-- 🌱 Currently learning **TypeScript**, **Next.js**, and **DevOps basics**
-- 🤝 Open to collaborations and freelance opportunities
-- 📫 Reach me at: **jayeshupare02@gmail.com**
+- 💻 Passionate about Web Development and Software Design  
+- 🌱 Currently learning **Next.js**, **TypeScript**, and **Cloud Basics**
+- 🛠️ Focused on building scalable full-stack applications using **MERN Stack**
+- 🤝 Open to freelance, internships, and collaborative projects  
+- 📬 Reach me at: **jayeshupare02@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayeshupare&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayeshupare&layout=compact&theme=tokyonight" width="47%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jayeshupare&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
-## 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/jayeshupare" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jayeshupare02@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+```js
+Languages      : JavaScript, TypeScript, HTML, CSS
+Frontend       : React.js, Tailwind CSS, Bootstrap
+Backend        : Node.js, Express.js
+Database       : MongoDB
+Tools & Others : Git, GitHub, VS Code, Postman, Figma
