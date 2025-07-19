@@ -1,31 +1,34 @@
-# 👋 Hello World! I'm Jayesh Upare
+<!-- Jayesh Upare | GitHub Profile README -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jayeshupare&label=Profile%20Views&color=0e75b6&style=flat-square)
-
+<h1 align="center">Hey 👋, I'm Jayesh Upare</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Clean+%26+Responsive+UI+Lover;Always+Learning+Something+New+🚀" />
+  🚀 Full-Stack Developer | MERN Stack Enthusiast | Problem Solver
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Building+modern+web+apps+with+MERN;Love+clean+UI+%26+code+structure;Lifelong+learner+and+collaborator+🤝" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF" />
 </p>
 
 ---
 
-## 💡 About Me
+## 🧠 About Me
 
-- 👨‍🎓 Final Year B.E. Information Technology Student  
-- 🛠️ Tech Stack: React, Node.js, Express, MongoDB, Tailwind CSS  
-- 🌱 Currently diving into **TypeScript**, **Next.js**, and **DevOps Basics**  
-- 🤝 Always open to collaboration and freelance opportunities  
-- 📫 Reach me at: **jayeshupare02@gmail.com**
+- 🎓 Final Year B.E. in Information Technology  
+- 🛠️ Passionate about MERN stack development and full-stack web apps  
+- 🌱 Currently learning: **TypeScript**, **Next.js**, and **CI/CD**  
+- ✨ I enjoy building clean, responsive, and real-world projects  
+- 📫 Reach me: **jayeshupare02@gmail.com**
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 💻 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,figma,postman,docker" />
 </p>
 
 ---
@@ -39,16 +42,16 @@
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jayeshupare" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jayesh%20Upare-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jayeshupare02@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Jayeshupare" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-JayeshUpare-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="mailto:jayeshupare02@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jayeshupare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Jayeshupare" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jayeshupare&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Jayesh Profile Views" />
 </p>
