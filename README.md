@@ -42,7 +42,7 @@ I'm a passionate full-stack developer with expertise in building web application
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jayeshupare&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayeshupare&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayeshupare&layout=compact&theme=radical" />
 </div>
 
 <div align="center">
