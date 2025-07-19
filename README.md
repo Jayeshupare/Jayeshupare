@@ -1,60 +1,57 @@
-# 👋 Hello World! I'm Jayesh Upare
+<h1 align="center">Hey there! 👋 I'm Jayesh Upare</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jayeshupare&label=Profile%20Views&color=0e75b6&style=flat-square)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;MERN+Stack+Engineer;Clean+%26+Responsive+UI+Builder;Lifelong+Tech+Learner+🚀" />
+</p>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-
-🚀 Passionate full-stack developer exploring MERN stack technologies and solving real-world problems through code. I enjoy building clean, responsive, and functional user interfaces backed by powerful APIs.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
 ---
 
 ## 💡 About Me
 
-- 🎓 Pursuing B.E. in Information Technology  
-- 💼 Tech Stack: React, Node.js, Express, MongoDB, Tailwind CSS  
-- 🌱 Currently learning **TypeScript**, **Next.js**, and **DevOps basics**
-- 🤝 Open to collaborations and freelance opportunities
-- 📫 Reach me at: **jayeshupare3737@gmail.com**
-
-<!-- Removed the underline here -->
-
-## 🛠️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+👨‍🎓 Final year IT engineering student  
+🧠 Passionate about building fast, responsive MERN stack applications  
+📦 Skilled in full-stack development, REST APIs, and UI frameworks  
+🌱 Currently learning **Next.js**, **TypeScript**, and **Cloud Deployment**  
+💬 I love talking about code, UI/UX, and productivity  
+📫 Reach me at: **jayeshupare3737@gmail.com**
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Stack & Tools
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Jayeshupare&show_icons=true&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayeshupare&layout=compact&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,figma,postman" />
+</p>
 
 ---
 
-## 🔗 Connect with Me
+## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayeshupare&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayeshupare&layout=compact&theme=github_dark&hide_border=true&border_radius=10" width="48%" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/jayeshupare" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Jayesh%20Upare-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:jayeshupare02@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
   </a>
+  <a href="https://github.com/Jayeshupare" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-JayeshUpare-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jayeshupare&label=Profile%20Views&color=blue&style=flat-square" />
 </p>
