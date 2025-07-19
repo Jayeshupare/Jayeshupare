@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
+  <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
 I'm a passionate full-stack developer with expertise in building web applications using modern technologies. I love turning ideas into reality through code and constantly learning new technologies.
@@ -22,6 +22,7 @@ I'm a passionate full-stack developer with expertise in building web application
 
 ## 🛠 Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -33,8 +34,8 @@ I'm a passionate full-stack developer with expertise in building web application
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -42,7 +43,7 @@ I'm a passionate full-stack developer with expertise in building web application
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jayeshupare&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayeshupare&layout=compact&theme=radical" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayeshupare&layout=compact&theme=radical" />
 </div>
 
 <div align="center">
