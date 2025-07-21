@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
 I'm a passionate full-stack developer with expertise in building web applications using modern technologies. I love turning ideas into reality through code and constantly learning new technologies.
@@ -60,10 +60,10 @@ I'm a passionate full-stack developer with expertise in building web application
 ## 📫 Connect With Me
 
 <p align="start">
-  <a href="https://linkedin.com/in/jayeshupare" target="_blank">
+  <a href="https://www.linkedin.com/in/jayesh-upare-694138266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:jayeshupare@example.com">
+  <a href="mailto:jayeshupare3737@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Jayeshupare" target="_blank">
