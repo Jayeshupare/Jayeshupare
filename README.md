@@ -6,17 +6,16 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
 I'm a passionate full-stack developer with expertise in building web applications using modern technologies. I love turning ideas into reality through code and constantly learning new technologies.
 
 - 🔭 I'm currently working on **MERN stack projects**
-- 🌱 Learning **Next.js, TypeScript, and GraphQL**
+- 🌱 Learning **Next.js, DSA**
 - 👯 Looking to collaborate on **open-source projects**
-- 💬 Ask me about **React, Node.js, or any web dev stuff**
-- 📫 How to reach me: **jayeshupare@example.com**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
+- 💬 Ask me about **React, Node.js**
+- 📫 How to reach me: **jayeshupare3737@example.com**
 
 ---
 
