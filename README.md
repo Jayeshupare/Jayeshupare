@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
 I'm a passionate full-stack developer with expertise in building web applications using modern technologies. I love turning ideas into reality through code and constantly learning new technologies.
