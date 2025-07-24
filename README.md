@@ -15,7 +15,7 @@ I'm a passionate full-stack developer with expertise in building web application
 - 🌱 Learning **Next.js, DSA**
 - 👯 Looking to collaborate on **open-source projects**
 - 💬 Ask me about **React, Node.js**
-- 📫 How to reach me: **jayeshupare3737@example.com**
+- 📫 How to reach me: **jayeshupare3737@gmail.com**
 
 ---
 
