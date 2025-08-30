@@ -45,10 +45,6 @@ I'm a passionate full-stack developer with expertise in building web application
   <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayeshupare&layout=compact&theme=radical" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayeshupare&theme=react-dark" />
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
