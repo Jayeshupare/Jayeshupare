@@ -46,12 +46,13 @@ I'm a passionate full-stack developer with expertise in building web application
 </div>
 
 ---
-
+<!--
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Jayeshupare&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+-->
 
 ## 📫 Connect With Me
 
