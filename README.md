@@ -59,11 +59,10 @@ I enjoy working at the intersection of development and data—creating applicati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" height="48" alt="Excel" title="Microsoft Excel"/>
 
   <!-- Power BI -->
-  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI"/>
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI"/>
   <!-- Seaborn -->
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn"/>
-</p>
+  </p>
 
 ---
 
