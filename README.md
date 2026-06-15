@@ -12,9 +12,8 @@
 I'm a passionate full-stack developer with expertise in building web applications using modern technologies. I love turning ideas into reality through code and constantly learning new technologies.
 
 - 🔭 I'm currently working on **Data Analytics**
-- 🌱 Learning **Next.js, DSA**
+- 🌱 Learning **Power BI**
 - 👯 Looking to collaborate on **open-source projects**
-- 💬 Ask me about **React, Node.js**
 - 📫 How to reach me: **jayeshupare3737@gmail.com**
 
 ---
