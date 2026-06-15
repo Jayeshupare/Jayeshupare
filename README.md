@@ -9,7 +9,13 @@
   <img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
-I'm a passionate full-stack developer with expertise in building web applications using modern technologies. I love turning ideas into reality through code and constantly learning new technologies.
+## 🚀 About Me
+
+I'm a passionate Full-Stack Developer and Data Analytics enthusiast who enjoys building scalable web applications and uncovering insights from data. I love transforming ideas into real-world solutions through clean, efficient, and meaningful code.
+
+Currently, I’m focusing on **Data Analytics**, exploring data visualization, statistical analysis, and tools like Python, Pandas, NumPy, and Power BI while continuing to strengthen my skills in modern web development.
+
+I enjoy working at the intersection of development and data—creating applications that are not only functional but also data-driven and impactful. I'm always eager to learn new technologies, solve challenging problems, and collaborate on innovative projects.
 
 - 🔭 I'm currently working on **Data Analytics**
 - 🌱 Learning **Power BI**
