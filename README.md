@@ -13,7 +13,7 @@ I'm a passionate Full-Stack Developer and Data Analytics enthusiast who enjoys b
 
 Currently, I’m focusing on **Data Analytics**, exploring data visualization, statistical analysis, and tools like Python, Pandas, NumPy, and Power BI while continuing to strengthen my skills in modern web development.
 
-I enjoy working at the intersection of development and data—creating applications that are not only functional but also data-driven and impactful. I'm always eager to learn new technologies, solve challenging problems, and collaborate on innovative projects.
+I enjoy working at the intersection of development and data creating applications that are not only functional but also data-driven and impactful. I'm always eager to learn new technologies, solve challenging problems, and collaborate on innovative projects.
 
 - 🔭 I'm currently working on **Data Analytics**
 - 🌱 Learning **Power BI**
